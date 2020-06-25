@@ -1,15 +1,15 @@
 body{
-    background-color:rgb(161, 161, 161);
+    background-color:rgba(206, 206, 206, 0.993);
 }
 
 .nav-extended{
-    background-image: url("imagem\cinema.png");
+    background-image: url("imagem/capa.jpg");
     background-size: cover;
     background-blend-mode: soft-light;
 }
 
 nav ul li.active, .tab a.active{
-    border-bottom: solid 2px #fff;
+    border-bottom: solid 2px #FFF;
     background-color: transparent;
 }
 
