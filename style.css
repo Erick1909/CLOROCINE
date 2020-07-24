@@ -10,7 +10,7 @@ body{
 
 nav ul li.active, .tab a.active{
     border-bottom: solid 2px #FFF;
-    background-color: transparent;
+   
 }
 
 .nav-header-h1{

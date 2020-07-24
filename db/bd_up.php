@@ -12,7 +12,7 @@ $sql = "CREATE TABLE filmes(
         titulo VARCHAR (200) NOT NULL,
         poster VARCHAR (200),
         sinopse TEXT,
-        nota DECIMAL (2,1)
+        nota DECIMAL (3,1),
     )
     
 ";
@@ -57,11 +57,6 @@ if ($bd->exec($sql))
     echo "\nfilmes inseridos com sucesso\n";
 else
     echo"\nerro ao inserir filmes\n";
-
-
-
-
-
 
 
 ?>
