@@ -2,7 +2,7 @@
 
 <body>
 
-    <nav class="nav-extended pink lighten-1">
+    <nav class="nav-extended pink lighten-2">
         <div class="nav-wrapper">
             <ul id="nav-mobile" class="right">
                 <li><a href="/">Galeria</a></li>
